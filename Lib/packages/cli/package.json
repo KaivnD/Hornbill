@@ -1,0 +1,21 @@
+{
+  "name": "@hornbill/cli",
+  "private": "true",
+  "license": "MIT",
+  "author": "KaivnD <KaivnD@hotmail.com>",
+  "version": "1.0.0",
+  "bin": {
+    "hornbill": "bin/index.js"
+  },
+  "dependencies": {
+    "cfonts": "2.4.5",
+    "chalk": "3.0.0",
+    "commander": "6.2.1",
+    "dotenv": "8.2.0",
+    "fs-extra": "9.0.0",
+    "inquirer": "7.0.1",
+    "nanoid": "3.1.16",
+    "ora": "4.0.3",
+    "ws": "7.4.5"
+  }
+}
