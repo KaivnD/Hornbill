@@ -2,6 +2,9 @@
   "name": "hornbill",
   "private": "true",
   "license": "MIT",
+  "scripts": {
+    "bump": "lerna publish --registry=\"https://registry.npmjs.org\""
+  },
   "workspaces": {
     "packages": [
       "packages/*"
