@@ -2,11 +2,14 @@
 	
   <PropertyGroup>
     <TargetFramework>net48</TargetFramework>
-    <Version>1.0</Version>
+    <Version>0.0.2</Version>
     <Title>HornbillRhinoPlugin</Title>
     <Description>Description of HornbillRhinoPlugin</Description>
     <TargetExt>.rhp</TargetExt>
     <UserSecretsId>0ee14d8f-c900-4988-bf2f-eb0e897dfc63</UserSecretsId>
+    <AssemblyName>Hornbill</AssemblyName>
+    <AssemblyVersion>0.0.2.0</AssemblyVersion>
+    <FileVersion>0.0.2.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
