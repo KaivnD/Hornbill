@@ -1,6 +1,6 @@
 {
   "name": "@hornbill/cli",
-  "private": "true",
+  "private": false,
   "license": "MIT",
   "author": "KaivnD <KaivnD@hotmail.com>",
   "version": "0.0.1",
